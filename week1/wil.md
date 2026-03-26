@@ -6,7 +6,7 @@
 작성한 온라인 쇼핑몰 프로젝트 API 명세서
 
 - 상품 기능 
-1. 상품을 등록할 수 있다. POST /stocks/
+1. 상품을 등록할 수 있다. POST /stocks
 2. 상품 리스트를 조회할 수 있다. GET /stocks
 3. 상품 정보를 상세 조회할 수 있다. GET /stocks/{stocksid}
 4. 상품 정보를 수정할 수 있다. PATCH /stocks/{stocksid}
